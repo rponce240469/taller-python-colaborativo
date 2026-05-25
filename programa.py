@@ -3,6 +3,6 @@
 
 def saludar():
     print("Hola, este es el programa base del taller")
-    print("Hola, Soy jeremy de leon este es un video tutorial")
+    print("Hola, este es el comentario de alexis lol")
 
 saludar()
